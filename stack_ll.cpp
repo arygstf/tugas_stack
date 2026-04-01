@@ -26,7 +26,7 @@ void push(int x){
     newNode -> next = top;
     top = newNode;
     
-    cout << x << "ditambahkan ke stack\n";
+    cout << x << " ditambahkan ke stack\n";
 }
 
 //Pop
